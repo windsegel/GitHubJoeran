@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 596be53fc85cbbf4493a7476daec87f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playera: {fileID: 4157299916724303982, guid: 54af67ef1f250914c9c9c7abe5b22393,
+      type: 3}
+  - ballaa: {fileID: 9215912013428593888, guid: d31e9b8677425b542a4e4e678a33c5c3,
+      type: 3}
+  - stabaa: {fileID: -3557953381290948015, guid: 0cfcc2074502c0447a93513538a2c61c,
+      type: 3}
+  - stabab: {fileID: 7549382684204030328, guid: 4702e5c533acabc4381dc8e47665b496,
+      type: 3}
+  - stabac: {fileID: -2478279368749370667, guid: 3614029bfaf6dbd4da0da7ccf5f7bc2d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
